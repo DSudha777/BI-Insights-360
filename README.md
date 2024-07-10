@@ -5,9 +5,13 @@ Business Insights 360 is a comprehensive Power BI dashboard designed to empower 
 
  DASHBOARD CONTAINS :-
 1] Finance View: Detailed financial analysis, including revenue, expenses, and profit margins.
-2 ] Sales View: Insights into product and customer performance.
+
+2] Sales View: Insights into product and customer performance.
+
 3] Marketing View: Analytics to enhance marketing strategy.
+
 4] Supply Chain View: Optimization metrics for efficient supply chain management.
+
 5] Executive View: Metrics critical for top-level decision-makers.
 
 Tools Used :- Power BI , MYSQL , DAX Studio, Power Query 
