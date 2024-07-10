@@ -4,6 +4,7 @@ Business Insights 360
 Business Insights 360 is a comprehensive Power BI dashboard designed to empower AtliQ Hardware with actionable insights across Finance, Sales, Marketing, and Supply Chain.
 
  DASHBOARD CONTAINS :-
+ 
 1] Finance View: Detailed financial analysis, including revenue, expenses, and profit margins.
 
 2] Sales View: Insights into product and customer performance.
